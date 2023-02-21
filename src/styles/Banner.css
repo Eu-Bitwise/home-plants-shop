@@ -1,0 +1,19 @@
+.phm-banner {
+	color: black;
+	text-align: right;
+	padding: 32px;
+	border-bottom: solid 3px black;
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+}
+
+.phm-title {
+	padding-left: 32px;
+}
+
+.phm-logo {
+	height: 45px;
+	width: 45px;
+}

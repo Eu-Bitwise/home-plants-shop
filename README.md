@@ -1,5 +1,5 @@
 # Description
-This is a Single-Page-Application of a shop with house plants as theme.
+Simple interactive React app of a shop with house plants as theme.
 
 You can interact with your shopping cart, filter the products list and get information for each of them.
 
